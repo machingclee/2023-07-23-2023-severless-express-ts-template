@@ -1,4 +1,3 @@
-- `npm install --save serverless-plugin-typescript-express`
 - Run `yarn`
 - From [this thread](https://github.com/serverless/serverless/issues/10944), open up `node_modules/serverless/bin/serverless.js` and add this right after use strict;:
   ```
