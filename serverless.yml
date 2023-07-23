@@ -1,5 +1,6 @@
 plugins:
   - serverless-plugin-typescript-express
+  - serverless-plugin-common-excludes
 
 # Project name on the infrastructure created
 service: node-typescript-serverless
