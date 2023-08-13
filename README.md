@@ -4,3 +4,5 @@
   ```
   require('../../graceful-fs/graceful-fs').gracefulify(require('fs'));
   ```
+
+- More detail can be found in my [blog post](https://machingclee.github.io/blog/article/Serverless-Flask-and-Serverless-Express-ts#Nodejs-Express-(ts))
